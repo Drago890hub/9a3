@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\bin\Debug\2ra.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\bin\Debug\2ra.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\bin\Debug\2ra.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\obj\Debug\2ra.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\obj\Debug\2ra.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\obj\Debug\2ra.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\6.03.24\2ra\obj\Debug\2ra.pdb
